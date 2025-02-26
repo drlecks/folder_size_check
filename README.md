@@ -62,5 +62,5 @@ Want to colaborate?
 - The batch script ensures **PowerShell runs with execution policy bypassed**, so no need to modify system settings.
 
 ---
-Made with ❤️ by [drlecks](https://github.com/drlecks) (and IA ;))
+Made with ❤️ by [drlecks](https://github.com/drlecks) (and AI 😊))
 
